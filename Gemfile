@@ -9,7 +9,7 @@ gem "country_select", "~> 8.0"
 # The modern asset pipeline for Rails [https://github.com/rails/propshaft]
 gem "propshaft"
 # Use postgresql as the database for Active Record
-gem "pg", "~> 1.1"
+gem "pg", "~> 1.6"
 # feker gem to crete fake data for seed
 gem "faker", "~> 3.4"
 # using for the price 
