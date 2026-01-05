@@ -5,7 +5,7 @@ gem "rails", "~> 8.0.3"
 
 
 gem 'devise', '~> 4.9', '>= 4.9.4'
-gem "country_select", "~> 8.0"
+gem "country_select", "~> 11.0"
 # The modern asset pipeline for Rails [https://github.com/rails/propshaft]
 gem "propshaft"
 # Use postgresql as the database for Active Record
