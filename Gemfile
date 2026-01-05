@@ -11,7 +11,7 @@ gem "propshaft"
 # Use postgresql as the database for Active Record
 gem "pg", "~> 1.1"
 # feker gem to crete fake data for seed
-gem "faker", "~> 3.4"
+gem "faker", "~> 3.5"
 # using for the price 
 gem "money-rails"
 # Use the Puma web server [https://github.com/puma/puma]
